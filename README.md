@@ -1,2 +1,2 @@
 # agile-final-project
-Agile FInal Project
+Agile Final Project
